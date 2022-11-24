@@ -20,13 +20,5 @@ I gave a whole new life to an old motorcycle that deserves to be taken care of 
 * Copyright 2013-2018 David Deutsch
 * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
 * Modernizr 2.8.3 (Custom Build) | MIT & BSD
-     _ _      _       _
- ___| (_) ___| | __  (_)___
-/ __| | |/ __| |/ /  | / __|
-\__ \ | | (__|   < _ | \__ \
-|___/_|_|\___|_|\_(_)/ |___/
-                   |__/
-* Version: 1.8.0
-* Author: Ken Wheeler
-* Website: http://kenwheeler.github.io
+* Version: 1.8.0; Author: Ken Wheeler;Website: http://kenwheeler.github.io
   
