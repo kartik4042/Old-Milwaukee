@@ -7,4 +7,26 @@ Designing a cafe racer is as much about art as science, and each bike is unique 
 **Overview:**
 
 I gave a whole new life to an old motorcycle that deserves to be taken care of and probably saved it from ending up in a junkyard. <br>
-                                           _How? by turning it into a Cafe Racer!_
+                                           How? _by turning it into a Cafe Racer!_
+
+**Credits**
+
+* Bootstrap v3.3.1 (http://getbootstrap.com) 
+* Copyright 2011-2014 Twitter, Inc.
+* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+* Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+* License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+* Owl Carousel v2.3.1
+* Copyright 2013-2018 David Deutsch
+* Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+* Modernizr 2.8.3 (Custom Build) | MIT & BSD
+     _ _      _       _
+ ___| (_) ___| | __  (_)___
+/ __| | |/ __| |/ /  | / __|
+\__ \ | | (__|   < _ | \__ \
+|___/_|_|\___|_|\_(_)/ |___/
+                   |__/
+* Version: 1.8.0
+* Author: Ken Wheeler
+* Website: http://kenwheeler.github.io
+  
